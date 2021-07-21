@@ -89,7 +89,7 @@ let render (state: State) (dispatch: Msg -> unit) =
         appTitle
         inputField state dispatch
         todoList state dispatch
-      ]
+      ]//
       ]
     ]
 
